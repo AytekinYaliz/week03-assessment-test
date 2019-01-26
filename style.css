@@ -1,0 +1,7 @@
+.container .card-img-top{
+    border: 5px solid black;
+}
+
+.container #img-2{
+    border: 5px solid red;
+}

@@ -1,0 +1,10 @@
+.container .img {
+
+    border: black solid 2px;
+    
+    
+}
+
+.container #center {
+    border-color: red;
+}
